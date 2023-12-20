@@ -1,4 +1,4 @@
-(![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains"))]
+
 <h1 align="center">Hi 👋, I'm Himansh Bansal (Himu336)</h1>
 <h3 align="center">"Simply Coding: Brewing Ideas, Transforming Them into Digital Reality"</h3>
 
