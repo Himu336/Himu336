@@ -35,7 +35,7 @@ My expertise lies in building backend systems using the following technologies:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,docker,redis,mongodb,postgres,js,ts,git,postman,rabbitmq,py&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,docker,redis,mongodb,postgres,aws,js,ts,git,postman,rabbitmq,py&theme=dark" />
   </a>
 </p>
  
